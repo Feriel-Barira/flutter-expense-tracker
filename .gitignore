@@ -47,8 +47,11 @@ app.*.map.json
 # Ignorer certains fichiers spécifiques dans lib/pages
 lib/pages/home_page.dart
 lib/pages/stateful_home_page.dart
+lib/pages/my_notes_page.dart
+
 lib/models/product.dart
 lib/models/student.dart
 # Ignorer certains dossiers
 lib/practical1.dart
 lib/practical2.dart
+lib/practical3.dart
