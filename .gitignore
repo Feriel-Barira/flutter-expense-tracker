@@ -48,10 +48,17 @@ app.*.map.json
 lib/pages/home_page.dart
 lib/pages/stateful_home_page.dart
 lib/pages/my_notes_page.dart
+lib/pages/main_contact_page.dart
+lib/pages/contact_info_page.dart
 
 lib/models/product.dart
 lib/models/student.dart
+lib/models/contact_info_model.dart
+
+lib/widgets/contact_list_widget.dart
+lib/widgets/contact_form_widget.dart
 # Ignorer certains dossiers
 lib/practical1.dart
 lib/practical2.dart
 lib/practical3.dart
+lib/practical4.dart
